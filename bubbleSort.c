@@ -1,6 +1,6 @@
 #include "sort.h"
 
-Sqlist arr = {{8,6,5,2,3},10};
+extern Sqlist arr;
 
 void bubbleSort(Sqlist *L){
     int i,j;

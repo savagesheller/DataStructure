@@ -21,3 +21,4 @@ void printList(Sqlist *L){
     }
     printf("\n");
 }
+Sqlist arr = {{0,6,5,2,3,1,8,7},10};
